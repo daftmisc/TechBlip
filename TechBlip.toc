@@ -1,0 +1,7 @@
+## Interface: 60000
+## Title: Tech Blip
+## Author: DaftMisc
+## Version: v0.2
+## Notes: Dead simple addon that converts minimap blips to a more modern, tech-esque format.
+
+TechBlip.lua
